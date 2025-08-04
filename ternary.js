@@ -53,5 +53,4 @@ if(isLeadar==true){
         price=price+1000;
     }
 
-    price>100
     price=isLeadar===true ?  price>1000 ? price/2:0 :price+1000;
